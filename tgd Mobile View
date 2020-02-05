@@ -97,8 +97,9 @@ header {
 
 header>#header-area>a>h1 {
   background: url('https://raw.githubusercontent.com/UL-Study/UL_tgd/master/tgd%20logo.png') no-repeat;
-  background-size: 100px 36px;
+  background-size: auto 36px;
   background-repeat: no-repeat;
+  width 100px;
   height: unset !important;
 }
 
