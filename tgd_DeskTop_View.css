@@ -31,7 +31,7 @@ header .row>div:nth-child(1)>a {
   display: block;
   width: 145px;
   height: 50px;
-  background: url(https://raw.githubusercontent.com/UL-Study/UL_tgd/master/tgd%20logo.png) no-repeat;
+  background: url('https://raw.githubusercontent.com/UL-Study/UL_tgd/master/tgd_logo.png') no-repeat;
   background-size: auto 50px;
 }
 
