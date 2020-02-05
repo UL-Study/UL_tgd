@@ -20,7 +20,7 @@ header #header-bar>.row,
 /* 로고밑 NAV bar */
 
 header #header-bar>.row {
-  border-top: 4px solid #519D9E;
+  border-top: 4px solid #6BA587;
   border-right: none;
   border-bottom: none;
 }
@@ -31,7 +31,7 @@ header .row>div:nth-child(1)>a {
   display: block;
   width: 145px;
   height: 50px;
-  background: url('https://raw.githubusercontent.com/UL-Study/UL_tgd/master/tgd_logo.png') no-repeat;
+  background: url(https://raw.githubusercontent.com/UL-Study/UL_tgd/master/tgd_logo.png) no-repeat;
   background-size: auto 50px;
 }
 
@@ -45,13 +45,13 @@ header .row>div:nth-child(1)>a>img {
 /* 검색폼 보더 */
 
 header #right-search-form>input[type='text'] {
-  border: 3px solid #58C9B9;
+  border: 3px solid #232424;
 }
 
 /* 트게더 전체메뉴 / 유용한링크 / 트위치 스케쥴 */
 
 #main .menu-wrapper>.header {
-  background: #519D9E;
+  background: #6BA587;
 }
 
 .fa-navicon:before,
@@ -61,7 +61,7 @@ header #right-search-form>input[type='text'] {
 }
 
 .fa-square:before {
-  color: #D1B6E1;
+  color: #F3E994;
 }
 
 header #header-bar>.row,
@@ -78,37 +78,37 @@ header #header-bar>.row,
 /* 헤더 검색 버튼 */
 
 header #right-search-form>#right-search-btn {
-  color: #58C9B9;
+  color: #232424;
 }
 
 /* 헤더 [광고]배경색 */
 
 header #header-bar #header-top-notice strong.notice-badge {
-  background: #519D9E;
+  background: #D07EDC;
 }
 
 /* fa색상 */
 
 header #header-bar .fa {
-  color: #58C9B9;
+  color: #232424;
 }
 
 /* 스트리머 게시판 상단 정보 글씨색상 */
 
 #board-info #board-info-bottom a {
-  color: #519D9E;
+  color: #D07EDC;
 }
 
 /* 좌측메뉴 숏컷링크 글씨 색상 */
 
 #main .menu-wrapper>a>em {
-  color: #D1B6E1;
+  color: #F3E994;
 }
 
 /* 좌측메뉴 메뉴사이의 공간 색상 */
 
 #main .menu-wrapper .spacer {
-  background: #D1B6E1;
+  background: #F3E994;
   height: 0.15em;
 }
 
@@ -119,7 +119,7 @@ header #header-bar .fa {
 }
 
 #article-list #article-list-category {
-  border-top: 2px solid #519D9E;
+  border-top: 2px solid #D07EDC;
   background: white;
 }
 
@@ -128,15 +128,15 @@ header #header-bar .fa {
 }
 
 #article-list>.article-list-row>.item>.list-header>span {
-  background-color: #519D9E;
+  background-color: #D07EDC;
 }
 
 #article-list>.article-list-row>.item>.list-title>small.comment-count {
-  color: #519D9E;
+  color: #D07EDC;
 }
 
 #article-list>.article-list-row>.item>.list-title>.list-writer.logged>span {
-  color: #519D9E;
+  color: #D07EDC;
 }
 
 .pagination>.active>a,
@@ -145,29 +145,29 @@ header #header-bar .fa {
 .pagination>.active>span,
 .pagination>.active>span:focus,
 .pagination>.active>span:hover {
-  background-color: #519D9E;
-  border-color: #519D9E;
+  background-color: #D07EDC;
+  border-color: #D07EDC;
 }
 
 .pagination>li>a:focus,
 .pagination>li>a:hover,
 .pagination>li>span:focus,
 .pagination>li>span:hover {
-  color: #519D9E;
+  color: #D07EDC;
 }
 
 .pagination>li>a,
 .pagination>li>span {
-  color: #519D9E;
+  color: #D07EDC;
 }
 
 #article-content-wrapper>.header {
-  border-top: 2px solid #519D9E;
+  border-top: 2px solid #D07EDC;
 }
 
 #article-reply-area #reply-real-area .reply>.reply-header>.reply-writer.logged,
 #article-reply-area #reply-best-area .reply>.reply-header>.reply-writer.logged {
-  color: #519D9E;
+  color: #D07EDC;
 }
 
 #article-info>h2 {
@@ -175,11 +175,11 @@ header #header-bar .fa {
 }
 
 #article-info>h2>span.category {
-  color: #519D9E !important;
+  color: #D07EDC !important;
 }
 
 #article-reply-area>.header h5 {
-  color: #519D9E;
+  color: #D07EDC;
 }
 
 #main .menu-wrapper>a {
@@ -187,11 +187,11 @@ header #header-bar .fa {
 }
 
 a {
-  color: #519D9E;
+  color: #D07EDC;
 }
 
 span.a-badge i.fa.fa-info-circle {
-  color: #519D9E;
+  color: #6BA587;
 }
 
 /* footer */
@@ -212,5 +212,5 @@ span.a-badge i.fa.fa-info-circle {
 }
 
 .btn-primary {
-  background: #58C9B9 !important;
+  background: #232424 !important;
 }
