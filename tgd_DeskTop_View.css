@@ -84,7 +84,7 @@ header #right-search-form>#right-search-btn {
 /* 헤더 [광고]배경색 */
 
 header #header-bar #header-top-notice strong.notice-badge {
-  background: #232424 ;
+  background: #79437c;
 }
 
 /* fa색상 */
@@ -96,7 +96,7 @@ header #header-bar .fa {
 /* 스트리머 게시판 상단 정보 글씨색상 */
 
 #board-info #board-info-bottom a {
-  color: #232424 ;
+  color: #79437c;
 }
 
 /* 좌측메뉴 숏컷링크 글씨 색상 */
@@ -119,7 +119,7 @@ header #header-bar .fa {
 }
 
 #article-list #article-list-category {
-  border-top: 2px solid #232424 ;
+  border-top: 2px solid #79437c;
   background: white;
 }
 
@@ -128,15 +128,15 @@ header #header-bar .fa {
 }
 
 #article-list>.article-list-row>.item>.list-header>span {
-  background-color: #232424 ;
+  background-color: #79437c;
 }
 
 #article-list>.article-list-row>.item>.list-title>small.comment-count {
-  color: #232424 ;
+  color: #79437c;
 }
 
 #article-list>.article-list-row>.item>.list-title>.list-writer.logged>span {
-  color: #232424 ;
+  color: #79437c;
 }
 
 .pagination>.active>a,
@@ -145,29 +145,29 @@ header #header-bar .fa {
 .pagination>.active>span,
 .pagination>.active>span:focus,
 .pagination>.active>span:hover {
-  background-color: #232424 ;
-  border-color: #232424 ;
+  background-color: #79437c;
+  border-color: #79437c;
 }
 
 .pagination>li>a:focus,
 .pagination>li>a:hover,
 .pagination>li>span:focus,
 .pagination>li>span:hover {
-  color: #232424 ;
+  color: #79437c;
 }
 
 .pagination>li>a,
 .pagination>li>span {
-  color: #232424 ;
+  color: #79437c;
 }
 
 #article-content-wrapper>.header {
-  border-top: 2px solid #232424 ;
+  border-top: 2px solid #79437c;
 }
 
 #article-reply-area #reply-real-area .reply>.reply-header>.reply-writer.logged,
 #article-reply-area #reply-best-area .reply>.reply-header>.reply-writer.logged {
-  color: #232424 ;
+  color: #79437c;
 }
 
 #article-info>h2 {
@@ -175,11 +175,11 @@ header #header-bar .fa {
 }
 
 #article-info>h2>span.category {
-  color: #232424  !important;
+  color: #79437c !important;
 }
 
 #article-reply-area>.header h5 {
-  color: #232424 ;
+  color: #79437c;
 }
 
 #main .menu-wrapper>a {
@@ -187,7 +187,7 @@ header #header-bar .fa {
 }
 
 a {
-  color: #232424 ;
+  color: #79437c;
 }
 
 span.a-badge i.fa.fa-info-circle {
