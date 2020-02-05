@@ -1,0 +1,137 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+body {
+  letter-spacing: -0.05em !important;
+  background: transparent;
+  font-family: 'Nanum Gothic', Arial, Helvetica, sans-serif;
+
+}
+
+#article-list>.article-list-row>.item>.list-title>.list-writer>span {
+  width: 120px !important;
+}
+
+#article-list #article-list-category {
+  border-top: 2px solid #519D9E;
+  background: white;
+}
+
+#article-list #article-list-category>a {
+  background: white;
+}
+
+#article-list>.article-list-row>.item>.list-header>span {
+  background-color: #519D9E;
+}
+
+#article-list>.article-list-row>.item>.list-title>small.comment-count {
+  color: #519D9E;
+}
+
+#article-list>.article-list-row>.item>.list-title>.list-writer.logged>span {
+  color: #519D9E;
+}
+
+.pagination>.active>a,
+.pagination>.active>a:focus,
+.pagination>.active>a:hover,
+.pagination>.active>span,
+.pagination>.active>span:focus,
+.pagination>.active>span:hover {
+  background-color: #519D9E;
+  border-color: #519D9E;
+}
+
+.pagination>li>a:focus,
+.pagination>li>a:hover,
+.pagination>li>span:focus,
+.pagination>li>span:hover {
+  color: #519D9E;
+}
+
+.pagination>li>a,
+.pagination>li>span {
+  color: #519D9E;
+}
+
+#article-content-wrapper>.header {
+  border-top: 2px solid #519D9E;
+}
+
+#article-reply-area #reply-real-area .reply>.reply-header>.reply-writer.logged,
+#article-reply-area #reply-best-area .reply>.reply-header>.reply-writer.logged {
+  color: #519D9E;
+}
+
+#article-info>h2 {
+  font-weight: bold;
+}
+
+#article-info>h2>span.category {
+  color: #519D9E !important;
+}
+
+#article-reply-area>.header h5 {
+  color: #519D9E;
+}
+
+#article-reply-area #reply-real-area .reply>.reply-header>.reply-writer.logged,
+#article-reply-area #reply-best-area .reply>.reply-header>.reply-writer.logged {
+  color: #519D9E;
+}
+
+.btn-primary {
+  background: #519D9E !important;
+}
+
+/* 모바일 */
+
+#header-top-notice {
+  display: none;
+}
+
+header {
+  background-color: #519D9E;
+  border-bottom-color: #519D9E;
+}
+
+header>#header-area>a>h1 {
+  background: url('https://raw.githubusercontent.com/UL-Study/UL_tgd/master/tgd%20logo.png') no-repeat;
+  background-size: auto 36px;
+  background-repeat: no-repeat;
+  height: unset !important;
+}
+
+header>#header-area>#header-search-link {
+  color: #519D9E;
+}
+
+header>#header-area>#header-bar-link {
+  color: #519D9E;
+}
+
+header>#header-search-bar #header-search-btn {
+  color: #519D9E;
+}
+
+#article-list>.article-list-row.notice>.item>a.list-title>.list-writer {
+  display: none;
+}
+
+header>#header-search-bar #header-search-input {
+  border-color: #519D9E;
+}
+
+#article-list>.article-list-row>.item>a.list-title>small.comment-count {
+  color: #519D9E;
+  letter-spacing: -0.05em !important;
+}
+
+#article-list>.article-list-row>.item>a.list-title>.list-writer.logged>span {
+  color: #519D9E;
+}
+
+#nav#nav>.nav-header {
+  background-color: #519D9E;
+  color: white;
+}
