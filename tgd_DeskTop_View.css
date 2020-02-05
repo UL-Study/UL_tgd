@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 html {
-  background: linear-gradient(to bottom, #fa92a0, #d30450);
+  background: linear-gradient(to bottom, #d30450, #fa92a0);
   height: auto !important;
 }
 body {
