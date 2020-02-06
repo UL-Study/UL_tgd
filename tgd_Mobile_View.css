@@ -96,7 +96,7 @@ header {
 }
 
 header>#header-area>a>h1 {
-  background: url('http://tgd.kr/assets/images/logo_mobile.png') no-repeat;
+  background: url('https://raw.githubusercontent.com/UL-Study/UL_tgd/master/tgd_logo.png') no-repeat;
   background-size: auto 36px;
   background-repeat: no-repeat;
   width: 100px;
